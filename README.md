@@ -7,9 +7,9 @@ I am a technology-driven Web Developer with hands-on experience in building full
 I have a strong command of HTML, CSS, JavaScript, PHP, and MySQL, which allows me to develop efficient, dynamic, and user-friendly digital solutions.
 As a dedicated team player with excellent work ethics and strong communication skills, I am committed to delivering high-quality projects that align with both technical requirements and business goals.
 
-- 🌱 Currently learning: **[Backend Software Development]**
+- 🌱 Currently learning: **[Cloud Computing and Infrastructures]**
 - 🔭 Working on: **[A Personal Portfolio Website]**
-- 🌍 Languages: **[JavaScript, React, PHP and English]**
+- 🌍 Languages: **[JavaScript, React, PHP, Python and English]**
 - 📫 How to reach me: ilechukwufran6x@gmail.com
 - ⚡ Fun fact: **[You will always find me online]**
 
