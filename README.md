@@ -49,7 +49,7 @@ As a dedicated team player with excellent work ethics and strong communication s
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[LM Tech Hub]** is a A platform for individuals eager to start off their career in Tech built with **[HTML, CSS, PHP, Boostrap]**. This project demonstrates my ability to create a user friendly software application. You can check out the repository [here](####).
+**[LM Tech Hub]** is a A platform for individuals eager to start off their career in Tech built with **[HTML, CSS, PHP, Boostrap]**. This project demonstrates my ability to create a user friendly software application. You can check out the repository [here](https://vocal-dieffenbachia-03cae9.netlify.app/).
 
 
 
